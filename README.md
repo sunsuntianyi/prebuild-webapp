@@ -1,5 +1,5 @@
 # prebuild-webapp
-This is a pre-build version of the mlWebapp.
+This is a pre-build version of the mlWebapp. You just have to download from the docker respo and start using it.
 
 Installation Instruction:
 
