@@ -20,7 +20,6 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - ./WEBAPP/views:/srv/www/static
       - ./default.conf:/etc/nginx/conf.d/default.conf
     depends_on:
       - web
